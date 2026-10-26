@@ -12,6 +12,6 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "rg" {
-  name     = "example-resources"
+  name     = "bhakuarg"
   location = "West Europe"
 }
